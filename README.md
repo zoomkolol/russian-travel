@@ -9,3 +9,5 @@
 Для создания проекта использовался HTML и CSS, реализована адаптивная вёрстка через медиазапросы, использовались flexbox и grid.
 
 **Ссылка на github pages**
+
+[Ссылка на проект](https://zoomkolol.github.io/russian-travel/)
