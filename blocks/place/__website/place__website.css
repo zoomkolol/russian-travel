@@ -1,0 +1,7 @@
+.place__website {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: flex-end;
+}
