@@ -2,6 +2,7 @@
   text-decoration: none;
   background-image: url(../../../images/cover-image.jpg);
   background-size: cover;
+  background-position: center;
   min-height: 740px;
   width: 100%;
   display: flex;
