@@ -1,4 +1,5 @@
 .place {
+  box-sizing: border-box;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   column-gap: 40px;
@@ -13,6 +14,7 @@
 
 @media screen and (max-width: 700px) {
   .place {
+    max-width: 288px;
     grid-template-columns: 1fr;
     row-gap: 32px;
   }

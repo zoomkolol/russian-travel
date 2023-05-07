@@ -1,4 +1,5 @@
 .places {
+  box-sizing: border-box;
   max-width: 984px;
   display: flex;
   flex-flow: column wrap;
@@ -24,7 +25,7 @@
 @media screen and (max-width: 320px) {
   .places {
     padding-top: 64px;
-    row-gap: 64px;
-    width: calc(100% - 16px * 2);;
+    row-gap: 50px;
+    width: calc(100% - 16px * 2);
   }
 }

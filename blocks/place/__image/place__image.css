@@ -5,14 +5,9 @@
   height: auto;
 }
 
-/*@media screen and (max-width: 768px) {
+@media screen and (max-width: 320px) {
   .place__image {
-    max-width: 340px;
-  }
-}*/
-
-/*@media screen and (max-width: 320px) {
-  .place__image {
+    transform: translate(-16px);
     width: 100vw;
   }
-}*/
+}

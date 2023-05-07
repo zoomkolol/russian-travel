@@ -5,3 +5,9 @@
   flex-wrap: nowrap;
   justify-content: flex-end;
 }
+
+@media screen and (max-width: 320px) {
+  .place__website {
+    max-width: 288px;
+  }
+}
